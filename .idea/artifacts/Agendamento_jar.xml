@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Agendamento:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Agendamento_jar</output-path>
+    <root id="archive" name="Agendamento.jar">
+      <element id="module-output" name="Agendamento" />
+    </root>
+  </artifact>
+</component>
