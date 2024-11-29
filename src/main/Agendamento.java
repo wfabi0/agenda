@@ -25,4 +25,9 @@ public class Agendamento {
     public void setP(Pessoa p) {
         this.p = p;
     }
+
+    @Override
+    public String toString() {
+        return hora + ";" + p.toString();
+    }
 }

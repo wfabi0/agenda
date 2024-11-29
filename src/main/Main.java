@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Agenda agenda = new Agenda();
+        Agenda agenda = new Agenda("agendamentos.txt");
 
         String menu = "\n" +
                 "1. Marcar horario\n" +
